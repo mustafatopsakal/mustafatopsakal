@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Visitor counter](https://komarev.com/ghpvc/?username=mustafatopsakal&color=blue)
+[![Follow me](https://img.shields.io/github/followers/mustafatopsakal?label=Follow&style=social)](https://github.com/mustafatopsakal)
+
+I am a Research Assistant at Karadeniz Technical University and a PhD candidate in Computer Engineering. My interests include network security, 802.1 Time-Sensitive Networking and security, in-vehicle networks and intrusion detection systems. My ongoing PhD thesis focuses on the detection and prevention of attacks on IEEE 802.1 Time-Sensitive Networks. You can access some of my works [here](https://www.researchgate.net/profile/Mustafa-Topsakal).
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafatopsakal&layout=compact)
