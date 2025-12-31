@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 I am a Research Assistant at Karadeniz Technical University and a PhD candidate in Computer Engineering. My interests include network security, 802.1 Time-Sensitive Networking and security, in-vehicle networks and intrusion detection systems. My ongoing PhD thesis focuses on the detection and prevention of attacks on IEEE 802.1 Time-Sensitive Networks. You can access some of my works [here](https://www.researchgate.net/profile/Mustafa-Topsakal).
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafatopsakal&layout=compact)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mustafatopsakal&layout=compact&langs_count=12&theme=transparent)
